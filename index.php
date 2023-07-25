@@ -6,4 +6,4 @@
     <?php echo '<p>Hello World' ?>
     <script>alert("pegando")</script>
   </body>
-</html>
+</html> 
